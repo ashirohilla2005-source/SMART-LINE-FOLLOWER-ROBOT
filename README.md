@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Domain-Embedded%20Systems-green?style=for-the-badge">
 </p><p align="center">
   <b>An autonomous robotic system that detects and follows a predefined path using infrared sensors, Arduino-based decision-making, and motor control.</b>
-</p>
+</p>---
 
 📌 Project Overview
 
