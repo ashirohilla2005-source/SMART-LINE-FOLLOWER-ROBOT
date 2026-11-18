@@ -1,4 +1,4 @@
-##🤖 Smart Line Follower Robot Using Arduino
+🤖 Smart Line Follower Robot Using Arduino
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Robotics-blue?style=for-the-badge">
