@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Domain-Embedded%20Systems-green?style=for-the-badge">
 </p><p align="center">
   <b>An autonomous robotic system that detects and follows a predefined path using infrared sensors, Arduino-based decision-making, and motor control.</b>
-</p>---
+</p>
 
 📌 Project Overview
 
@@ -225,59 +225,6 @@ Through this project, practical knowledge was gained in:
 - Hardware troubleshooting
 - Circuit implementation
 - Real-time decision-making
-
----
-
-👥 Project Team
-
-Team Member| Roll Number
-Ashi| 252301013
-Simran| 252301071
-
-Department: Electronics and Communication Engineering
-Institution: University Institute of Engineering and Technology (UIET), Kurukshetra University, Kurukshetra
-
-Project Guide: Mr. Krishan Gopal, Assistant Professor
-
----
-
-📂 Repository Structure
-
-Smart-Line-Follower-Robot/
-│
-├── README.md
-├── Arduino_Code/
-│   └── line_follower_robot.ino
-│
-├── Circuit_Diagram/
-│   └── circuit_diagram.png
-│
-├── Block_Diagram/
-│   └── block_diagram.png
-│
-├── Project_Report/
-│   └── project_report.pdf
-│
-└── Images/
-    ├── robot_front.jpg
-    ├── robot_top.jpg
-    └── robot_testing.jpg
-
----
-
-📖 Project Documentation
-
-The complete project report includes:
-
-- Introduction and objectives
-- Component selection and technical justification
-- Circuit diagram
-- System block diagram
-- Working principle
-- Arduino programming
-- Applications and advantages
-- Future scope
-- Conclusion and references
 
 ---
 
